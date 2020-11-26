@@ -15,4 +15,4 @@ https://easylist.to/easylist/fanboy-social.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 # incompatible
 > adguard ALL filters
-> ublockorigin / badware.txt / privacy.txt / resources-abuse
+> ublockorigin / badware.txt / privacy.txt / resource-abuse
