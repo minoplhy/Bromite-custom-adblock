@@ -1,8 +1,17 @@
-Total : 3
+Total : 5
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0.txt
 https://easylist.to/easylist/fanboy-social.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 # Specific Country
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
+# Not all incompatible
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+{ 
+(error:106) Unknown URL rule option:
+bethesda.net#?#visor-alert[name="visor-alert"] > div[class=""] > div > div:last-child:-abp-has( > a[href$="/cookie-policy"]) 
+}
+
 # incompatible
 > adguard ALL filters
 > ublockorigin / badware.txt / privacy.txt / resource-abuse / unbreak / filter / filter-2020 / annoyances
