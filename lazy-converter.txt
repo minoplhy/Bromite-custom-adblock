@@ -1,4 +1,4 @@
 ruleset_converter --input_format=filter-list \
 		--output_format=unindexed-ruleset \
-                --input_files=easyprivacy.txt,easylist.txt,abp-filters-anti-cv.txt,annoyances.txt,brave-unbreak.txt,coin-miners.txt,easylist.txt,easyprivacy.txt,fanboy-cookiemonster.txt,fanboy-social.txt,filters-2020.txt,filters.txt,unbreak.txt,yoyo.txt,resource-abuse.txt,privacy.txt,badware.txt,easylist-thailand.txt \
+                --input_files=abp-filters-anti-cv.txt,annoyances.txt,brave-unbreak.txt,coin-miners.txt,easylist.txt,easyprivacy.txt,fanboy-cookiemonster.txt,fanboy-social.txt,filters-2020.txt,filters.txt,unbreak.txt,yoyo.txt,resource-abuse.txt,privacy.txt,badware.txt,easylist-thailand.txt \
 		--output_file=filters.dat
