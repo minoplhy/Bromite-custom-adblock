@@ -1,4 +1,4 @@
 ruleset_converter --input_format=filter-list \
 		--output_format=unindexed-ruleset \
-                --input_files=easylist.txt,easyprivacy.txt,abp-filters-anti-cv.txt,annoyances.txt,brave-unbreak.txt,coin-miners.txt,fanboy-social.txt,yoyo.txt,easylist-thailand.txt \
+                --input_files=easylist.txt,easyprivacy.txt,abp-filters-anti-cv.txt,fanboy-social.txt,yoyo.txt,easylist-thailand.txt \
 		--output_file=filters.dat
