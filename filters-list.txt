@@ -5,7 +5,7 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt
-https://github.com/easylist/easylist/blob/master/easylist/easylist_hide.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt
 # Specific Country
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 
