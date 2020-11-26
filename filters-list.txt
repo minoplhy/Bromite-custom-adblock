@@ -1,14 +1,17 @@
-Total : 5
+Total : 7
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0.txt
 https://easylist.to/easylist/fanboy-social.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt
+https://github.com/easylist/easylist/blob/master/easylist/easylist_hide.txt
 # Specific Country
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 
-# incompatible
+# incompatible error
 > adguard ALL filters
 > ublockorigin / badware.txt / privacy.txt / resource-abuse / unbreak / filter / filter-2020 / annoyances
 brave / coin-miner / unbreak
 adblockplus / anti-cv
-easylist / easyprivacy
+easylist / easyprivacy 
