@@ -6,12 +6,9 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 # Specific Country
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
-
-# incompatible error
-> adguard ALL filters
-> ublockorigin / badware.txt / privacy.txt / resource-abuse / unbreak / filter / filter-2020 / annoyances
-brave / coin-miner / unbreak
-adblockplus / anti-cv
-easylist / easyprivacy 
