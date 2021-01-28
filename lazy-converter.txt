@@ -1,4 +1,4 @@
 ruleset_converter --input_format=filter-list \
 		--output_format=unindexed-ruleset \
-                --input_files=yoyo.txt,fanboy-social.txt,fanboy-annoyance.txt,antiadblockfilters.txt,easylist_adservers.txt,easylist_specific_block.txt,easylist_general_hide.txt,easylist-thailand.txt \
+                --input_files=yoyo.txt,fanboy-social.txt,fanboy-annoyance.txt,antiadblockfilters.txt,easylist_adservers.txt,easylist_specific_block.txt,easylist_general_hide.txt,easylist-thailand.txt,easyprivacy.txt,brave-unbreak.txt,ublock-filters.txt,unlock-rbu.txt \
 		--output_file=filters.dat
