@@ -1,12 +1,11 @@
 wget -O yoyo.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0.txt
 wget https://easylist.to/easylist/fanboy-social.txt & wget https://secure.fanboy.co.nz/fanboy-annoyance.txt 
 wget https://easylist-downloads.adblockplus.org/antiadblockfilters.txt 
-wget https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt 
-wget https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt 
-wget https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt 
+wget https://easylist.to/easylist/easylist.txt
+wget -O filter_2_English.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
 wget https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 wget -O easyprivacy.txt https://easylist.to/easylist/easyprivacy.txt
 wget -O brave-unbreak.txt https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 wget -O ublock-filters.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 wget -O unlock-rbu.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-wget -O abuse_ch.txt https://urlhaus.abuse.ch/downloads/text/
+wget -O abuse_recent_ch.txt https://urlhaus.abuse.ch/downloads/text_recent/
