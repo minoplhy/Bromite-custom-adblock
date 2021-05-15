@@ -9,3 +9,4 @@ wget -O easyprivacy.txt https://easylist.to/easylist/easyprivacy.txt
 wget -O brave-unbreak.txt https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 wget -O ublock-filters.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 wget -O unlock-rbu.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+wget -O abuse_ch.txt https://urlhaus.abuse.ch/downloads/text/
