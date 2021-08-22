@@ -1,4 +1,4 @@
 ./ruleset_converter --input_format=filter-list \
 		--output_format=unindexed-ruleset \
-                --input_files=yoyo.txt,fanboy-social.txt,fanboy-annoyance.txt,antiadblockfilters.txt,easylist.txt,filter_2_English.txt,easylist-thailand.txt,easyprivacy.txt,brave-unbreak.txt,ublock-filters.txt,unlock-rbu.txt,abuse_recent_ch.txt,adguard-tracking.txt,adguard-urltracking.txt,adguard-self-promote.txt,adguard-annoyance.txt \
+                --input_files=yoyo.txt,fanboy-social.txt,fanboy-annoyance.txt,antiadblockfilters.txt,easylist.txt,filter_2_English.txt,easylist-thailand.txt,easyprivacy.txt,brave-unbreak.txt,ublock-filters.txt,unlock-rbu.txt,abuse_recent_ch.txt,ublock_annoyances.txt,ublock_filters2020.txt,ublock_filters2021.txt,ublock_privacy.txt \
 		--output_file=filters.dat

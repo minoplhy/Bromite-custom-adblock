@@ -9,7 +9,7 @@ wget -O brave-unbreak.txt https://raw.githubusercontent.com/brave/adblock-lists/
 wget -O ublock-filters.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 wget -O unlock-rbu.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 wget -O abuse_recent_ch.txt https://urlhaus.abuse.ch/downloads/text_recent/
-wget -O adguard-tracking.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-wget -O adguard-urltracking.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-wget -O adguard-self-promote.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
-wget -O adguard-annoyance.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+wget -O ublock_annoyances.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
+wget -O ublock_filters2020.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt
+wget -O ublock_filters2021.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt
+wget -O ublock_privacy.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt

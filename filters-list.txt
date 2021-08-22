@@ -13,6 +13,11 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+
 
 # Specific Country
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
