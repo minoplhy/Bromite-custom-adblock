@@ -9,10 +9,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://urlhaus.abuse.ch/downloads/text_recent/
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt
