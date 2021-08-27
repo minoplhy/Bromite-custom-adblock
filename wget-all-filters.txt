@@ -13,3 +13,5 @@ wget -O ublock_annoyances.txt https://github.com/uBlockOrigin/uAssets/raw/master
 wget -O ublock_filters2020.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt
 wget -O ublock_filters2021.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt
 wget -O ublock_privacy.txt https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+wget -O gnuzilla.txt https://gnuzilla.gnu.org/filters/blacklist.txt
+wget -O Fanboy-cookie.txt https://secure.fanboy.co.nz/fanboy-cookiemonster.txt

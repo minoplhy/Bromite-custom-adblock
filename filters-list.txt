@@ -13,6 +13,8 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://gnuzilla.gnu.org/filters/blacklist.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 
 # Specific Country
